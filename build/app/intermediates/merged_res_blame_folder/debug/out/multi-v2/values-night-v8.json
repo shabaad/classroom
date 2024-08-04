@@ -4,7 +4,7 @@
             "outputFile": "com.app.classroom.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/admin/Documents/Github personal/hamon_task/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/admin/Documents/Github personal/classroom/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
